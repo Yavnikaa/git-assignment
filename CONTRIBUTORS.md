@@ -18,3 +18,4 @@ Mihir Sachdeva <https://github.com/mihirsachdeva> - [HTML Assignment - IMG Recru
 Kunal Khandelwal <https://github.com/ktg-123> - [HTML Assignment - IMG Recruitment website] - <https://ktg-123.github.io/>
 
 Rochak Jain https://github.com/rochakjain361 -[HTML Assignment - IMG Recriuitment website] - https://rochakjain361.github.io/IMGFirstAssignment/IMGFirst.html
+RUDRAKSH AGGARWAL https://github.com/ruddi10 -[HTML Assignment - IMG Recruitment website] -
