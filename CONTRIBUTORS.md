@@ -21,4 +21,4 @@ Rochak Jain https://github.com/rochakjain361 -[HTML Assignment - IMG Recriuitmen
 RUDRAKSH AGGARWAL https://github.com/ruddi10 -[HTML Assignment - IMG Recruitment website] -
 Yash Khandelwal <https://github.com/yash523> - [HTML Assignment - IMG Recruitment website] - home page: <https://yash523.github.io/index.html>    development page: <https://yash523.github.io/img_developmentpg.html>
 
-Gauransh Dingwani <https://github.com/gauransh> - [HTML Assignment - IMG Recruitment website] - <https://gauransh7.github.io/recruitment/>
+Gauransh Dingwani <https://github.com/gauransh> - [HTML Assignment - IMG Recruitment website] - <https://gauransh7.github.io/recruitment/recruitment.html>
